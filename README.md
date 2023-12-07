@@ -5,12 +5,11 @@ And provides an intuitive interface, making screen recording hassle-free for tut
 
 <h2 align="center">How To Use</h2>
 
-<!-- - Click on the Start Recording button
-- Click on the Stop Recording button to stop recording
-- Click on the Download Recording button to download the recording -->
+1. Start Recording: Click the "Start Recording" button to begin the recording process.
+2. Stop Recording: When you're finished recording, click the "Stop Recording" button to stop the recording.
+3. Download Recording: Click the "Download Recording" button to save the recorded file to your device.
 
 <h2 align="center">Screenshots</h2>
 
-<p>&nbsp<p>
 
 <p style="font-style:italic; color:grey;">If you like this repository, consider supporting me through GitHub Sponsors.<p>
